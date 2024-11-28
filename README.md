@@ -1,17 +1,17 @@
-**Tech Stack** 
-  ***frontend : HTML5,CSS3,BOOTSTRAP5.3 ,jQERY**
-  ***backend : Nodejs(Express js)***
+**Tech Stack** <br>
+  ***frontend : HTML5,CSS3,BOOTSTRAP5.3 ,jQERY**<br>
+  ***backend : Nodejs(Express js)***<br>
 
-**Environment**
+**Environment**<br>
 
-***NODE_ENV=development,
-NODE_ENV=production
-PORT=3000
-DB=mongodb://localhost:27017/user   or ATLAS 
-SESSION_SECRET=my -secret-key   or abcdef
- "scripts": {
-    "start:dev": "NODE_ENV=development nodemon src/server.js ",
-    "start:prod": "NODE_ENV=production nodemon src/server.js"
+***NODE_ENV=development,<br>
+NODE_ENV=production,<br>
+PORT=3000<br>
+DB=mongodb://localhost:27017/user   or ATLAS <br>
+SESSION_SECRET=my -secret-key   or abcdef <br>
+ "scripts": { <br>
+    "start:dev": "NODE_ENV=development nodemon src/server.js ",<br>
+    "start:prod": "NODE_ENV=production nodemon src/server.js"<br>
   }***
 
   
