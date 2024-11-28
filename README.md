@@ -16,6 +16,7 @@ SESSION_SECRET=my -secret-key   or abcdef <br>
 
   
 ***home page***
+
 ![homepage](https://github.com/user-attachments/assets/b1a35ded-a85b-49ad-a734-a4c00d712247)
 ***registration****
 ![2 regist s](https://github.com/user-attachments/assets/21f25e1d-9414-4c14-95e1-8aa9db720372)
